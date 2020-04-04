@@ -1,0 +1,6 @@
+*.bak
+_*
+._*
+package/*
+!package/pkglist
+

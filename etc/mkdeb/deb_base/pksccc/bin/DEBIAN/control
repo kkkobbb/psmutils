@@ -1,0 +1,5 @@
+package: pks-binutils
+Maintainer: test
+Architecture: amd64
+Version: 2.27-1
+Description: binutils for pocket station

@@ -1,0 +1,6 @@
+Package: psmedit
+Maintainer: test
+Architecture: amd64
+Version: 1.0.0-1
+Description: PS1 Memory card Data Editor
+

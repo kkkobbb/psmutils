@@ -1,0 +1,7 @@
+Package: mcactl
+Maintainer: test
+Architecture: amd64
+Version: 1.0.0-1
+Depends: libusb-1.0-0
+Description: Read/Write PS1 Data via Memory card Adaptor
+
